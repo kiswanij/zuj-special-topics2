@@ -1,6 +1,9 @@
+![ZUJ Logo](logo.jpg)
+
 # Special Topics Course
 
 This repository was created as a demo for the CS-ST-1 course
+
 
 ## Introudction
 
